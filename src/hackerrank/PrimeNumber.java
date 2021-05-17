@@ -10,7 +10,6 @@ class PrimeNumber {
             }
             i++;
         }
-
         if (i == n)
             return n;
         return -1;
